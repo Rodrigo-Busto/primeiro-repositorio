@@ -1,3 +1,5 @@
 Esse é meu primeiro .txt compartilhado no github
 
 Editei para fazer um git pull
+
+Agora editei para enviar um push
